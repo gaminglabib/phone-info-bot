@@ -1,4 +1,5 @@
-
+python-telegram-bot==20.3
+aiohttp==3.8.4
 aiogram==3.2.0
 aiohttp
 uvicorn
