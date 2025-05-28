@@ -22,7 +22,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
 🔍 একটি নম্বর যাচাই করতে লিখুন:
 `/phone 01712345678`
 
-✅ উদাহরণ: `/phone 01812345678`
+✅ উদাহরণ: `/phone 01813345678`
 """
     await update.message.reply_text(welcome_msg, reply_markup=reply_markup, parse_mode="Markdown")
 
